@@ -5,11 +5,10 @@ string filePath = "../../../sports-teams-nfl.json"; // need to navigate out of b
 if (File.Exists(filePath))
 {
     string jsonTeams = File.ReadAllText(filePath);
-    NFLData? teamData = JsonSerializer.Deserialize<NFLData>(jsonTeams);
-    Console.WriteLine("--- NFL Teams ---");
-    if (teamData != null && teamData.teams != null)
+    NFLData? deserializedTeams = JsonSerializer.Deserialize<NFLData>(jsonTeams);
+    if (deserializedTeams != null && deserializedTeams.teams != null)
     {
-        foreach (Team team in teamData.teams)
+        foreach (Team team in deserializedTeams.teams)
         {
             Console.WriteLine($"{team.name} ({team.abbreviation}): Founded in {team.founded} and playing in the {team.conference} {team.division} in {team.stadium} in {team.city}, {team.state}.");
         }

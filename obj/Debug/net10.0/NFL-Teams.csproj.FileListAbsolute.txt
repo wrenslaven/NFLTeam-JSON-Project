@@ -12,3 +12,4 @@ C:\Users\wrens\Documents\Projects\NFL-Teams\obj\Debug\net10.0\refint\NFL-Teams.d
 C:\Users\wrens\Documents\Projects\NFL-Teams\obj\Debug\net10.0\NFL-Teams.pdb
 C:\Users\wrens\Documents\Projects\NFL-Teams\obj\Debug\net10.0\NFL-Teams.genruntimeconfig.cache
 C:\Users\wrens\Documents\Projects\NFL-Teams\obj\Debug\net10.0\ref\NFL-Teams.dll
+C:\Users\wrens\Documents\Projects\NFL-Teams\obj\Debug\net10.0\NFL-Teams.sourcelink.json
