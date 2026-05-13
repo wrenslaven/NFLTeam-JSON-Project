@@ -1,0 +1,14 @@
+C:\Users\wrens\Documents\Projects\NFL-Teams\bin\Debug\net10.0\NFL-Teams.exe
+C:\Users\wrens\Documents\Projects\NFL-Teams\bin\Debug\net10.0\NFL-Teams.deps.json
+C:\Users\wrens\Documents\Projects\NFL-Teams\bin\Debug\net10.0\NFL-Teams.runtimeconfig.json
+C:\Users\wrens\Documents\Projects\NFL-Teams\bin\Debug\net10.0\NFL-Teams.dll
+C:\Users\wrens\Documents\Projects\NFL-Teams\bin\Debug\net10.0\NFL-Teams.pdb
+C:\Users\wrens\Documents\Projects\NFL-Teams\obj\Debug\net10.0\NFL-Teams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wrens\Documents\Projects\NFL-Teams\obj\Debug\net10.0\NFL-Teams.AssemblyInfoInputs.cache
+C:\Users\wrens\Documents\Projects\NFL-Teams\obj\Debug\net10.0\NFL-Teams.AssemblyInfo.cs
+C:\Users\wrens\Documents\Projects\NFL-Teams\obj\Debug\net10.0\NFL-Teams.csproj.CoreCompileInputs.cache
+C:\Users\wrens\Documents\Projects\NFL-Teams\obj\Debug\net10.0\NFL-Teams.dll
+C:\Users\wrens\Documents\Projects\NFL-Teams\obj\Debug\net10.0\refint\NFL-Teams.dll
+C:\Users\wrens\Documents\Projects\NFL-Teams\obj\Debug\net10.0\NFL-Teams.pdb
+C:\Users\wrens\Documents\Projects\NFL-Teams\obj\Debug\net10.0\NFL-Teams.genruntimeconfig.cache
+C:\Users\wrens\Documents\Projects\NFL-Teams\obj\Debug\net10.0\ref\NFL-Teams.dll
