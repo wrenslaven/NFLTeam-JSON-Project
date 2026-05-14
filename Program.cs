@@ -1,6 +1,6 @@
 ﻿using System.Text.Json;
 
-string filePath = "../../../sports-teams-nfl.json"; // need to navigate out of bin directory to reach JSON file
+string filePath = "sports-teams-nfl.json";
 
 if (File.Exists(filePath))
 {
